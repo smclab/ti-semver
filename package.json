@@ -1,0 +1,29 @@
+{
+  "name": "ti-semver",
+  "guid": "a1975c5b-5269-38b7-b4b6-82c5e20a1dd0",
+  "version": "3.0.1",
+  "description": "The semver parser for Titanium SDK",
+  "author": {
+    "name": "Pier Paolo Ramon",
+    "email": "pierpaolo.ramon@smc.it",
+    "url": "https://github.com/yuchi"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "semantic",
+    "versioning",
+    "titaniumifier",
+    "semver"
+  ],
+  "license": "LGPL-2.1",
+  "dependencies": {
+    "semver": "~3.0.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-titaniumifier": "~0.2.7"
+  }
+}
