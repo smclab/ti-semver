@@ -4,7 +4,7 @@
   "description": "The semver parser for Titanium SDK",
   "titaniumManifest": {
     "guid": "a1975c5b-5269-38b7-b4b6-82c5e20a1dd0",
-    "moduleid": "soap"
+    "moduleid": "semver"
   },
   "author": {
     "name": "Pier Paolo Ramon",
